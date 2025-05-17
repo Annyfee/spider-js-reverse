@@ -1,4 +1,4 @@
-# 🕸️ Spider Js Reverse Cases
+# 🕸️ Spider Js Reverse
 
 > 爬虫 JavaScript 逆向与反调试案例库 | A collection of JS reverse engineering and anti-debugging cases
 
