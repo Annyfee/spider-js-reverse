@@ -26,18 +26,6 @@ spider-js-reverse/
 └── .gitignore             # Git 忽略文件
 ```
 
-## 📌 内容主题（持续更新中）
-
-- **网站 JS 签名算法逆向：** 对 API 请求中 `sign`、`_signature`、`tk` 等参数的生成进行分析和还原。
-- **JS 代码混淆与加密还原：** 针对 Webpack、各种混淆工具（如 Obfuscator）处理后的代码进行去混淆和结构分析。
-- **反调试技术对抗：** 浏览器 debugger 检测、`debugger` 语句、控制台检测等绕过方法。
-- **浏览器环境检测绕过：** 对 `window`、`navigator`、`puppeteer` 等浏览器环境特征的检测和伪造。
-- **Canvas、字体、CSS 偏移等渲染反爬分析。**
-- **动态代码加载与执行分析：** 异步加载模块、`eval`、`Function` 构造函数等。
-- **常用工具使用：** 浏览器开发者工具、抓包工具（Charles, Fiddler, Wireshark）、Node.js 执行环境、`execjs`、`frida` 等。
-
-每篇案例力求从实战网站出发，详细记录分析思路、调试过程和最终的代码实现。
-
 ## ✨ 适合人群
 
 - 希望系统学习 JavaScript 逆向分析的爬虫工程师。
