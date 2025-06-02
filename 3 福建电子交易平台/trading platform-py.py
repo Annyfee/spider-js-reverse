@@ -3,9 +3,11 @@ import json
 import time
 from hashlib import md5
 import random
+import execjs
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 import requests
+
 
 cookies = {
     'Hm_lvt_9d1de05cc99f08ddb5dc6d5e4d32ad30': '1748663404',
@@ -14,8 +16,10 @@ cookies = {
     '_qddagsx_02095bad0b': '56513d8598483de2ed73aed55e8aabf16ed281359ea81cfc61624365ae344a225aa2e8fbb447be28a300aa106242e9f48e05fe34df0c36bacbe6032e8b8f02ad81410d23a71ce5843ca6f721bcf735d8c93cb2cd5dbdbb1c6e31796c45fc03f00c954367bc8f910a45a98e5f5d7489ea86a6f1c9abfc36a88deb16fd4b7b0141',
 }
 
+
+
 # 批量获取
-for i_ in range(1, 21):
+for i_ in range(1, 11):
     # 生成时间戳
     t = int(time.time() * 1000)
     json_data = {
@@ -94,4 +98,4 @@ for i_ in range(1, 21):
     for i in contents['Table']:
         print(i['NAME'])
     time.sleep(random.uniform(0.4, 0.7))
-print(f'打印完成!一共打印20页!')
+print(f'打印完成!一共打印10页!')
