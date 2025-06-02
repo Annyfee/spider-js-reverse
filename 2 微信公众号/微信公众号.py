@@ -5,12 +5,12 @@ import execjs
 # obj.update('123456'.encode('utf8'))
 # pwd = obj.hexdigest()
 # print(pwd)
-pwd_data = '123456'
+pwd_data = '你的密码'
 pwd =execjs.compile(open('gongzhonghao.js',encoding='utf8').read()).call('getPwd',pwd_data)
 print(pwd)
 import requests
 
-username = '123456'
+username = '你的邮箱'
 
 cookies = {
     'ptcz': 'd6431faf4ef6cdf39b7189e47d934a848515a3f91952b4ba620e8b1496c9379d',
