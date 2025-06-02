@@ -1,7 +1,6 @@
 from hashlib import md5
 import execjs
 
-
 # obj = md5()
 # obj.update('123456'.encode('utf8'))
 # pwd = obj.hexdigest()
