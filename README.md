@@ -8,23 +8,15 @@
 
 👉 [我的CSDN主页](https://blog.csdn.net/2401_87328929)
 
-## 📖 仓库结构
+👉 [CSDN对应专栏](https://blog.csdn.net/2401_87328929/category_12970267.html)
 
-```
-spider-js-reverse/
-├── cases/                 # 案例分析代码和笔记
-│   ├── case_01_websiteA/  # 案例1：网站A
-│   │   ├── README.md      # 案例说明和分析过程
-│   │   ├── demo.py        # Python 演示代码
-│   │   └── js/            # 提取或还原的 JS 代码
-│   │       └── ...
-│   ├── case_02_websiteB/  # 案例2：网站B
-│   │   └── ...
-│   └── ...
-├── utils/                 # 可能用到的工具函数与脚本
-├── README.md              # 项目说明
-└── .gitignore             # Git 忽略文件
-```
+## 🚅 目录跳转
+| 站点                                                        | 仓库                                                                                        | 图文讲解                            | 知识点             | 难度   |
+|:----------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------------------------|:----------------| :----- |
+| [得物](https://www.dewu.com/)                               | <center>[🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/1%20%E5%BE%97%E7%89%A9) |<center> [📖](https://blog.csdn.net/2401_87328929/article/details/148026298) | webpack、补环境、加载器 | ⭐⭐⭐   |
+| [微信公众号](https://mp.weixin.qq.com/)                        | <center>[🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/2%20%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7)                                              |<center> [📖](https://blog.csdn.net/2401_87328929/article/details/148264432) | 补环境、密码学         | ⭐   |
+| [福建电子公共服务平台](https://ggzyfw.fujian.gov.cn/business/list/) | <center>[🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/3%20%E7%A6%8F%E5%BB%BA%E7%94%B5%E5%AD%90%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0)                                              |<center> [📖](https://blog.csdn.net/2401_87328929/article/details/148366811) | PY算法复现、密码学      | ⭐⭐   |
+
 
 ## ✨ 适合人群
 
