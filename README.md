@@ -19,12 +19,14 @@
 
 ## 🚅 目录跳转
 
-| 站点                                                      | 仓库                                                                                                                                                   | 图文讲解                                                                         | 加密算法 | 知识点             | 难度  |
-|:--------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|:-----|:----------------|:----|
-| [得物](https://www.dewu.com/)                             | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/1%20%E5%BE%97%E7%89%A9)</center>                                                       | [📖](https://blog.csdn.net/2401_87328929/article/details/148026298)</center> | md5  | webpack、扣JS、加载器 | ⭐⭐⭐ |
-| [微信公众号](https://mp.weixin.qq.com/)                      | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/2%20%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7)</center>                            | [📖](https://blog.csdn.net/2401_87328929/article/details/148264432)</center> | md5  | 扣JS、密码学         | ⭐   |
-| [福建电子交易平台](https://ggzyfw.fujian.gov.cn/business/list/) | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/3%20%E7%A6%8F%E5%BB%BA%E7%94%B5%E5%AD%90%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0)</center> | [📖](https://blog.csdn.net/2401_87328929/article/details/148366811)</center> | AES  | PY算法复现、扣JS、密码学  | ⭐⭐  |
-| [烯牛数据](https://www.xiniudata.com/industry/newest)       | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/4%20%E7%83%AF%E7%89%9B%E6%95%B0%E6%8D%AE)</center>                                     | [📖](https://blog.csdn.net/2401_87328929/article/details/148430026)</center> | md5  | 扣JS             | ⭐⭐  |
+| 站点                                                      | 仓库                                                                                                                                                   | 加密算法 | 知识点             | 难度  |
+|:--------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:-----|:----------------|:----|
+| [得物](https://www.dewu.com/)                             | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/1%20%E5%BE%97%E7%89%A9)                                                                 | md5  | webpack、扣JS、加载器 | ⭐⭐⭐ |
+| [微信公众号](https://mp.weixin.qq.com/)                      | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/2%20%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7)                                      | md5  | 扣JS、密码学         | ⭐   |
+| [福建电子交易平台](https://ggzyfw.fujian.gov.cn/business/list/) | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/3%20%E7%A6%8F%E5%BB%BA%E7%94%B5%E5%AD%90%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0)           | AES  | PY算法复现、扣JS、密码学  | ⭐⭐  |
+| [烯牛数据](https://www.xiniudata.com/industry/newest)       | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/4%20%E7%83%AF%E7%89%9B%E6%95%B0%E6%8D%AE)                                               | md5  | 扣JS             | ⭐⭐  |
+| [B站](https://search.bilibili.com/all)         | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/4%20%E7%83%AF%E7%89%9B%E6%95%B0%E6%8D%AE)                                               | md5  | 扣JS             | ⭐⭐  |
+
 
 ## ✨ 适合人群
 
