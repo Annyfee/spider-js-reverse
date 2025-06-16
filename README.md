@@ -25,7 +25,7 @@
 | [微信公众号](https://mp.weixin.qq.com/)                      | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/2%20%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7)                                      | md5  | 扣JS、密码学         | ⭐   |
 | [福建电子交易平台](https://ggzyfw.fujian.gov.cn/business/list/) | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/3%20%E7%A6%8F%E5%BB%BA%E7%94%B5%E5%AD%90%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0)           | AES  | PY算法复现、扣JS、密码学  | ⭐⭐  |
 | [烯牛数据](https://www.xiniudata.com/industry/newest)       | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/4%20%E7%83%AF%E7%89%9B%E6%95%B0%E6%8D%AE)                                               | md5  | 扣JS             | ⭐⭐  |
-| [B站](https://search.bilibili.com/all)         | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/4%20%E7%83%AF%E7%89%9B%E6%95%B0%E6%8D%AE)                                               | md5  | 扣JS             | ⭐⭐  |
+| [B站](https://search.bilibili.com/all)         | [🏠](https://github.com/Annyfee/spider-js-reverse/tree/master/5%20B%E7%AB%99)                                               | md5  | 扣JS             | ⭐⭐  |
 
 
 ## ✨ 适合人群
