@@ -1,58 +1,9 @@
 // 仅需加密逻辑--webpack
-// 没绷住..这个看似加密的o实际上压根就是个不动值..白扣半天
-// 以后看到某些像是动值的，你先别急，多测试几遍看动不动，能省非常大的工作量。
+// 这个看似加密的o实际上压根就是个不动值..白扣半天
+// 以后看到某些像是动值的，先别急，多测试几遍看动不动，能省非常大的工作量。
 
 //这里w_rid请求返回了两次不同值，第一次简单第二次复杂。只放进第一次的值应该也是可以的
 const crypto_js = require('crypto-js')
-
-
-// w_rid
-// e = "7cd084941338484aae1ad9425b84077c4932caff0ff746eab6f01bf08b70ac45"
-// wbiImgKey1 = "d569546b86c252:db:9bc7e99c5d71e5"
-// wbiSubKey1 = "557251g796:g54:f:ee94g8fg969e2de"
-// formatString$1 = function(e) {
-//         for (var t = "", r = 0; r < e.length; r++)
-//             t += String.fromCharCode(e.charCodeAt(r) - 1);
-//         return t
-//     }
-// t = {
-//     "wbiImgKey2":formatString$1(wbiImgKey1),
-//     "wbiSubKey2":formatString$1(wbiSubKey1)
-// }
-// function getLocal(e) {
-//         try {
-//             return localStorage.getItem(e)
-//         } catch (e2) {
-//             return null
-//         }
-//     }
-// function getImgFormatConfig(e) {
-//         var t;
-//         if (e.useAssignKey)
-//             return {
-//                 imgKey: wbiImgKey2,
-//                 subKey: wbiSubKey2
-//             };
-//         var r = (null === (t = getLocal("wbi_img_urls")) || void 0 === t ? void 0 : t.split("-")) || []
-//           , n = r[0]
-//           , i = r[1];
-//         return {
-//             imgKey: n ? getKeyFromURL(n) : e.wbiImgKey,
-//             subKey: i ? getKeyFromURL(i) : e.wbiSubKey
-//         }
-//     }
-// r = getImgFormatConfig(t)
-// n = r.imgKey
-// i = r.subKey
-// function getPictureHashKey(e) {
-//         var t = [];
-//         return [46, 47, 18, 2, 53, 8, 23, 32, 15, 50, 10, 31, 58, 3, 45, 35, 27, 43, 5, 49, 33, 9, 42, 19, 29, 28, 14, 39, 12, 38, 41, 13, 37, 48, 7, 16, 24, 55, 40, 61, 26, 17, 0, 1, 60, 51, 30, 4, 22, 25, 54, 21, 56, 59, 6, 63, 57, 62, 11, 36, 20, 34, 44, 52].forEach((function(r) {
-//             e.charAt(r) && t.push(e.charAt(r))
-//         }
-//         )),
-//         t.join("").slice(0, 32)
-//     }
-// o = getPictureHashKey(n + i)
 
 function get_w_rid(timestamp) {
     o = "ea1db124af3c7062474693fa704f4ff8"
