@@ -33,3 +33,4 @@ setProxy(['Xiaoming','Xiaohong'])
 
 Xiaoming.age
 Xiaohong.gender
+Xiaoming.son
