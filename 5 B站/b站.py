@@ -107,7 +107,7 @@ for i,x in enumerate(result):
     print(f'第{i}个数据...')
     soup = BeautifulSoup(x['title'],'html.parser')
     for em in soup.find_all('em',class_='keyword'):
-        em.replace_with('')
+        em.replace_with(keyword)
     clean_title = str(soup).strip()
     print('标题：',clean_title)
     print('链接：',x['arcurl'])
