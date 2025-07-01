@@ -26,15 +26,4 @@ const ret = get_all(act,pwd)
 res = JSON.stringify(ret)
 console.log(res)
 
-// let {nonce,account,pwd,signature} = process.argv[2]
-// nonce,account,pwd,signature = get_all(nonce,account,pwd,signature)
-// // console.log(nonce,account,pwd,signature)
-
 process.exit()
-
-// const {nonce,account,pwd,signature} = get_all('123456789','123456')
-
-// console.log('nonce:::',nonce)
-// console.log('account:::',account)
-// console.log('pwd:::',pwd)
-// console.log('signature:::',signature)
