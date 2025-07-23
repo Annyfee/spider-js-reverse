@@ -40,7 +40,6 @@
 
 ## 📌 相关项目推荐
 
-- [spider-notebook](https://github.com/Annyfee/spider-notebook)：爬虫基础知识和各类技术笔记库。
 - [spider-defense-bypass](https://github.com/Annyfee/spider-defense-bypass)：专注于验证码、滑块、IP 限制等特定反爬技术的突破。
 
 ## 🧭 更新计划
