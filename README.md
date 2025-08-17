@@ -2,10 +2,12 @@
 
 > 爬虫 JavaScript 逆向与反调试案例库 | A collection of JS reverse engineering and anti-debugging cases
 
+🔥 8 个真实站点实战，累计 20⭐，持续更新中
 
 
 本仓库聚焦于 JavaScript 逆向分析与前端反爬机制的研究与实战。通过拆解各类网站中的 JS
 加密、混淆、环境检测与反调试逻辑，系统记录绕过策略与技术实现，帮助开发者掌握前端反爬常见应对方式。
+
 
 🔨 本仓库所有案例均配备了README文档，一些难度较大的案例会附上更为详细的README，强烈建议分析源码时附带着使用。
 
@@ -18,6 +20,8 @@
 👉 [我的CSDN主页](https://blog.csdn.net/2401_87328929)
 
 👉 [CSDN对应专栏](https://blog.csdn.net/2401_87328929/category_12970267.html)
+
+🙋‍♂️ 技术交流 / 更新 / 答疑：微信 **a19731567148**（备注 GitHub）
 
 ## 🚅 目录跳转
 
@@ -48,10 +52,12 @@
 
 ## ⭐️ 支持与反馈
 
-如果你觉得这个项目对你有帮助，欢迎 Star、Fork、分享给更多人！
+- 如果你觉得这个项目对你有帮助，欢迎 Star、Fork、分享给更多人！
 
-若有任何建议或问题，或有想一起研究的 JS 逆向案例，欢迎通过 [Issue](https://github.com/Annyfee/js-spider-reverse/issues)
+
+- 若有任何建议或问题，或有想一起研究的 JS 逆向案例，欢迎通过 [Issue](https://github.com/Annyfee/js-spider-reverse/issues)
 提出交流！
+
 
 ## ❗ 免责声明
 
