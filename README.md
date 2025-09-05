@@ -2,7 +2,7 @@
 
 > 爬虫 JavaScript 逆向与反调试案例库 | A collection of JS reverse engineering and anti-debugging cases
 
-🔥 8 个真实站点实战，累计 20⭐，持续更新中
+🔥 8 个真实站点实战，累计 30⭐
 
 
 本仓库聚焦于 JavaScript 逆向分析与前端反爬机制的研究与实战。通过拆解各类网站中的 JS
